@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://avatars.githubusercontent.com/u/338457470"
+<img src="https://avatars.githubusercontent.com/u/338457470" />
 <!--
 **Bandejaec/Bandejaec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
